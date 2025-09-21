@@ -1,4 +1,4 @@
-<div align="center"><a href="https://nettleweb.com/" target="_blank" rel="noopener nofollow"><img src="https://nettleweb.com/res/logo.svg" width="768" height="256" draggable="false" alt="NettleWeb Logo" /></a></div>
+<div align="center"><a href="clever.github.io" target="_blank" rel="noopener nofollow"><img src="https://nettleweb.com/res/logo.svg" width="768" height="256" draggable="false" alt="NettleWeb Logo" /></a></div>
 
 # clever.github.io
 [![Discord Shield](https://img.shields.io/discord/998658232207814667?style=for-the-badge&logo=Discord&logoColor=%23ffffff&label=Discord&labelColor=%23303030&color=%23004080
