@@ -1,12 +1,12 @@
-<div align="center"><a href="clever.github.io" target="_blank" rel="noopener nofollow"><img src="https://nettleweb.com/res/logo.svg" width="768" height="256" draggable="false" alt="NettleWeb Logo" /></a></div>
+<div align="center"><a href="https://nettleweb.com/" target="_blank" rel="noopener nofollow"><img src="https://nettleweb.com/res/logo.svg" width="768" height="256" draggable="false" alt="NettleWeb Logo" /></a></div>
 
-# clever.github.io
+# NettleWeb
 [![Discord Shield](https://img.shields.io/discord/998658232207814667?style=for-the-badge&logo=Discord&logoColor=%23ffffff&label=Discord&labelColor=%23303030&color=%23004080
 )](https://discord.gg/djdH3kVd4v) [![Version](https://img.shields.io/github/manifest-json/v/nettleweb/nettleweb?style=for-the-badge&label=Version&labelColor=%23303030)](https://nettleweb.com/) [![Last Update](https://img.shields.io/github/last-commit/nettleweb/nettleweb?style=for-the-badge&label=Last%20Update&labelColor=%23303030&color=%23004080)](https://nettleweb.com/)
 
 *The free, open source unblocked online community platform*
 
-[Main Link](clever.github.io) | [Wiki](../../wiki) | [Links](../../wiki/Mirror-Links) | [Discord](https://discord.gg/djdH3kVd4v)
+[Main Link](https://nettleweb.com/) | [Wiki](../../wiki) | [Links](../../wiki/Mirror-Links) | [Discord](https://discord.gg/djdH3kVd4v)
 
 ## About
 NettleWeb is a free, open-source unblocked online community platform that allows users to chat, watch videos and share games. Its goal is to bring every internet user an unrestricted and private environment, because we believe that it is incorrect to steal user data without their proper consent, and everyone deserves the right to do whatever they want.
